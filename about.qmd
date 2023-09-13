@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This is my personal website for DSCI 521.
